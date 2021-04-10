@@ -1,5 +1,5 @@
 # Fun-Server-Bot
-A discord bot that is for fun servers made for Blaze Z Community!
+Made for Blaze Z Community!
 
 **Discord Bot για Fun Server!**
 
