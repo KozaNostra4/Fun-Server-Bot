@@ -5,7 +5,7 @@ A discord bot that is for fun servers made for Blaze Z Community!
 
 **-----------------------------------------------**
 
-**Το Discord Bot  Περιέχει : **
+**Το Discord Bot  Περιέχει:**
 
 `Welcome & Leave Message`
 
@@ -27,7 +27,7 @@ A discord bot that is for fun servers made for Blaze Z Community!
 
 **-----------------------------------------------**
 
-**Για να σετάρετε το bot πρέπει :**
+**Για να σετάρετε το bot πρέπει:**
 
 `Να κατεβάσετε το node.js και το Visual Studio Code`
 
@@ -47,7 +47,7 @@ A discord bot that is for fun servers made for Blaze Z Community!
 
 **Έτοιμοι!**
 
-**Για τυχόν απορίες ή προβλήματα που θα αντιμετωπίσετε επικοινωνήστε με τον KozaNostra#4444 στο Discord !**
+**Για τυχόν απορίες ή προβλήματα που θα αντιμετωπίσετε επικοινωνήστε με τον KozaNostra#4444 στο Discord!**
 
 **-----------------------------------------------**
 
@@ -55,7 +55,7 @@ A discord bot that is for fun servers made for Blaze Z Community!
 
 **-----------------------------------------------**
 
-**Discord Bot Contains: **
+**Discord Bot Contains:**
 
 `Welcome & Leave Message`
 
