@@ -2,20 +2,33 @@
 A discord bot that is for fun servers made for Blaze Z Community!
 
 **Discord Bot για Fun Server!**
+
 **-----------------------------------------------**
 
 **Το Discord Bot  Περιέχει : **
+
 `Welcome & Leave Message`
+
 `Δίνει αυτόματα έναν ρόλο όταν κάποιος μπαίνει στον server!`
+
 `BlackList System με unblacklist command(Αν κάποιος στείλει ένα λίνκ σε οποιοδήποτε κανάλι , το bot διαγράφει το μήνυμα και βγάζει τον main ρόλο εκτός και αν έχει WhiteList ρόλο)!`
+
 `Polls and Suggestion Channels`
+
 `Admin Commands(ban,unban,kick,say)!`
+
 `Manage Roles Commands(addrole, removerole)!`
+
 `Manage Channels Commands(lock, unlock)!`
+
 `General Commands(info, serverinfo, avatar)!`
+
 `Logs για ban, unban, kick, lock, unlock, Blacklist system and unblacklist command!`
+
 **-----------------------------------------------**
+
 **Για να σετάρετε το bot πρέπει :**
+
 `Να κατεβάσετε το node.js και το Visual Studio Code`
 
 `1o Βήμα: Δημιουργείτε έναν φάκελο και βάζετε τα αρχεία μέσα!`
@@ -35,24 +48,39 @@ A discord bot that is for fun servers made for Blaze Z Community!
 **Έτοιμοι!**
 
 **Για τυχόν απορίες ή προβλήματα που θα αντιμετωπίσετε επικοινωνήστε με τον KozaNostra#4444 στο Discord !**
+
 **-----------------------------------------------**
 
  **DIscord Bot for Fun Servers**
+
 **-----------------------------------------------**
 
-** Discord Bot Contains: **
+**Discord Bot Contains: **
+
 `Welcome & Leave Message`
+
 `Automatically gives a role when someone enters the server!`
+
 `BlackList System with unblacklist command (If someone sends a link to any channel, the bot deletes the message and removes the main role unless it has a WhiteList role)!`
+
 `Polls and Suggestion Channels`
+
 `Admin Commands (ban, unban, kick, say)!`
+
 `Manage Roles Commands (addrole, removerole)!`
+
 `Manage Channels Commands (lock, unlock)!`
+
 `General Commands (info, serverinfo, avatar)!`
+
 `Logs for ban, unban, kick, lock, unlock, Blacklist system and unblacklist command!`
-** ----------------------------------------------- * *
-** To set up the bot you must: **
-Download node.js and Visual Studio Code
+
+**-----------------------------------------------**
+
+**To set up the bot you must:**
+
+
+**Download node.js and Visual Studio Code**
 
 `Step 1: Create a folder and put the files inside!`
 
@@ -68,6 +96,6 @@ Download node.js and Visual Studio Code
 
 `Step 7 In Visual Studio Code open a terminal and run the command `  `node index.js`
 
-** Ready! **
+**Ready!**
 
-** For any questions or problems you will encounter contact KozaNostra#4444 at Discord! **
+**For any questions or problems you will encounter contact KozaNostra#4444 at Discord!**
